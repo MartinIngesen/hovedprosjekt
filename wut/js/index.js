@@ -1,16 +1,16 @@
 var data = {
-    labels: ["Backend", "Frontend", "Arkitektur", "Design", "Sikkerhet", "Databaser", "Testing", "Prosjektstyring", "Kommunikasjon"],
+    labels: ["Arkitektur", "Design", "Sikkerhet", "Persistent lagring", "Nettverk", "", ""],
     datasets: [
 
         {
-            label: "Pacman",
+            label: "My Second dataset",
             fillColor: "rgba(151,187,205,0.2)",
             strokeColor: "rgba(151,187,205,1)",
             pointColor: "rgba(151,187,205,1)",
             pointStrokeColor: "#fff",
             pointHighlightFill: "#fff",
             pointHighlightStroke: "rgba(151,187,205,1)",
-            data: [85, 67, 83, 60, 83, 95, 90, 90, 94]
+            data: [78, 77, 67, 85, 96, 88, 100]
         }
     ]
 };
