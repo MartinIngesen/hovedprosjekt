@@ -26,7 +26,6 @@ var barChartData = {
 };
 
 $('#portfolioModal6').on('shown.bs.modal', function (event) {
-  alert(1);
   var button = $(event.relatedTarget);
   var modal = $(this);
   var canvas = modal.find('#martin-karakterer');
@@ -44,4 +43,3 @@ $('#portfolioModal6').on('shown.bs.modal', function (event) {
   });
 
 });
-$('#portfolioModal6').modal();
