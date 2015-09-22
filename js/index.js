@@ -1,9 +1,8 @@
 var data = {
     labels: ["Backend", "Frontend", "Arkitektur", "Design", "Sikkerhet", "Databaser", "Testing", "Prosjektstyring", "Kommunikasjon"],
     datasets: [
-
         {
-            label: "Pacman",
+            label: "data",
             fillColor: "rgba(151,187,205,0.2)",
             strokeColor: "rgba(151,187,205,1)",
             pointColor: "rgba(151,187,205,1)",
@@ -16,4 +15,9 @@ var data = {
 };
 
 var ctx = document.getElementById("radar-canvas").getContext("2d");
-var myRadarChart = new Chart(ctx, {data: data, type: 'radar', options: {}});
+var myRadarChart = new Chart(ctx, {
+  data: data,
+  type: 'radar',
+  options: {
+    responsive: false,
+  }});
