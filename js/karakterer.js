@@ -4,7 +4,7 @@
 // Kirstine data: [5, 5, 6, 5, 5, 6, 6, 6, 6, 6, 5, 4, 4, 6, 5, 1],
 // Idar data:   [5, 6, 4, 5, 6, 6, 4, 5, 5, 5, 5, 5, 4, 5, 5, 1],
 // Jonas data:  [5, 6, 5, 5, 4, 6, 6, 5, 6, 6, 4, 6, 5, 5, 5, 1],
-// Fredrick data:[5, 5, 5, 6, 6, 5, 5, 5, 6, 6, 5, 6, 6, 6, 6, 1],
+// Fredrick data:[5, 5, 5, 6, 6, 5, 5, 5, 6, 6, 5, 6, 6, 6, 5, 1],
 
 
 var labels = ["Databases 1", "Programming 1", "Creative Web Project", "Digital Technology", "Programming 2", "Unity Development", "Iterative Web Project", "Information Security", "Advanced Java Programming", "Software Architecture", "Algorithms and Datastructures", "Advanced Java Programming 2", "Ruby on Rails", "Mobile Development", "Project Software Engineering"]
@@ -40,7 +40,7 @@ $('#portfolioModal1').on('shown.bs.modal',function(event){
           datasets: [{
               label: 'Karakter',
               backgroundColor: "rgba(151,187,205,0.5)",
-              data: [5, 5, 5, 6, 6, 5, 5, 5, 6, 6, 5, 6, 6, 6, 6, 1],
+              data: [5, 5, 5, 6, 6, 5, 5, 5, 6, 6, 5, 6, 6, 6, 5, 1],
               borderColor: 'white',
               borderWidth: 0
           }, {
