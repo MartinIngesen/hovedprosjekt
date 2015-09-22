@@ -16,4 +16,7 @@ var data = {
 };
 
 var ctx = document.getElementById("radar-canvas").getContext("2d");
-var myRadarChart = new Chart(ctx).Radar(data, {});
+var myRadarChart = Chart.Radar(ctx, {
+  data: data,
+  options: {}
+});
