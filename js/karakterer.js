@@ -8,7 +8,7 @@
 
 
 var labels = ["Databases 1", "Programming 1", "Creative Web Project", "Digital Technology", "Programming 2", "Unity Development", "Iterative Web Project", "Information Security", "Advanced Java Programming", "Software Architecture", "Algorithms and Datastructures", "Advanced Java Programming 2", "Ruby on Rails", "Mobile Development", "Project Software Engineering"]
-var jonaslabels = ["Databases 1", "Programming 1", "Creative Web Project", "Digital Technology", "Programming 2", "Digital Culture", "Iterative Web Project", "Information Security", "Advanced Java Programming", "Software Architecture", "Algorithms and Datastructures", "Advanced Java Programming 2", "Ruby on Rails", "Mobile Development", "Project Software Engineering"]
+var jonaslabels = ["Databases 1", "Programming 1", "Creative Web Project", "Digital Technology", "Digital Culture",  "Programming 2", "Iterative Web Project", "Information Security", "Advanced Java Programming", "Software Architecture", "Algorithms and Datastructures", "Advanced Java Programming 2", "Ruby on Rails", "Mobile Development", "Project Software Engineering"]
 var kirstinelabels = ["Databases 1", "Programming 1", "Creative Web Project", "Digital Technology", "Programming 2", "Animation", "Iterative Web Project", "Information Security", "Advanced Java Programming", "Software Architecture", "Algorithms and Datastructures", "Advanced Java Programming 2", "Ruby on Rails", "Mobile Development", "Project Software Engineering"]
 
 var barChartData = {
