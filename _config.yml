@@ -1,0 +1,12 @@
+# Site settings
+title: Hovedprosjekt.no
+email: kontakt@hovedprosjekt.no
+url: http://hovedprosjekt.no
+description: "Vi er klare for tidenes hovedprosjekt hos Mesan"
+skills: ""
+meta_author: LastName FirstName
+baseurl: ""
+siteurl: "http://localhost:4000"
+# Build settings
+markdown: kramdown
+permalink: pretty

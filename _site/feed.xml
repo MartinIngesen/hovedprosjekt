@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hovedprosjekt.no</title>
+    <description>Vi er klare for tidenes hovedprosjekt hos Mesan</description>
+    <link>http://hovedprosjekt.no/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 13 Jan 2016 14:18:36 +0100</pubDate>
+    <lastBuildDate>Wed, 13 Jan 2016 14:18:36 +0100</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>First entry!</title>
+        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 +0200</pubDate>
+        <link>http://hovedprosjekt.no/2014/07/15/first-entry/</link>
+        <guid isPermaLink="true">http://hovedprosjekt.no/2014/07/15/first-entry/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
