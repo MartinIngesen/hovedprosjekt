@@ -16,6 +16,10 @@ p.small {
     font-size: 16px;
 }
 
+.navbar, .skills{
+	background-color:#233140;
+}
+
 a,
 a:hover,
 a:focus,
