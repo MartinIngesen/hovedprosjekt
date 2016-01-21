@@ -14,3 +14,5 @@ Session.vim
 .netrwhist
 *~
 
+# Added by Idar
+.idea
